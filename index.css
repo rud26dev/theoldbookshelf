@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tahoma', 'Arial'; 
+}
+
+.heading{
+    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:darkcyan;
+    font-size: 50px;
+    padding-top: 40px;
+}
+
+.heading_text{
+    padding-top: 38px;
+    color: #696969;
+    font-size: 20px;
+
+    padding-bottom: 40px;
+}
+
+.head_titles{
+    color: #505050;
+    font-size: 18px;
+}
+
+img{
+    height: 150px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.booknames, .bookprices, .bookcondition{
+    font-size: 18px;
+    color: #383838;
+    padding-bottom: 10px;
+}
+
+button{
+    font-size: 15px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+}
+
+.copyright_info{
+    padding-top: 20px;
+    color: gray;
+}
+.add_info{
+    color: gray;
+}
+.credit{
+    color: gray;
+    padding-bottom: 45px;
+}
+.contact{
+    font-size: 20px;
+    padding-top: 20px;
+}
